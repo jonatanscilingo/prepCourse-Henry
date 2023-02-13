@@ -1,2 +1,1 @@
-# prepCourse-Henry
-este  es un repositorio del modulo 2 de Henry
+prueba de como crear un repositor y clonar desde github hacia mi computador
